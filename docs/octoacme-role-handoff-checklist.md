@@ -1,7 +1,16 @@
 # OctoAcme Role Handoff Checklist
 
 ## Purpose
-This checklist provides a structured approach to guide handoffs between Product Manager, UX Designer, Project Manager, Developers, QA, and Sponsor throughout the project lifecycle. It ensures accountability and clear communication at each phase transition.
+This checklist provides a structured approach to guide handoffs between Product Manager, UX Designer, Project Manager, Developers, QA, and Stakeholder Sponsor throughout the project lifecycle. It ensures accountability and clear communication at each phase transition.
+
+## Role Abbreviations
+- **PdM** = Product Manager
+- **PM** = Project Manager
+- **UX** = UX Designer
+- **Devs** = Developers
+- **QA** = Quality Assurance/Testing
+- **Sponsor** = Stakeholder Sponsor
+- **Agile Coach** = Agile Coach
 
 ## When to Use
 Use this checklist at key project milestones:
@@ -62,6 +71,6 @@ Use this checklist at key project milestones:
 ---
 
 ## Notes
-- Ownership tags (PdM, UX, PM, Devs, QA, Sponsor, Agile Coach) indicate who is primarily responsible
+- Ownership tags indicate who is primarily responsible (see Role Abbreviations section above)
 - Items may require collaboration across multiple roles
 - Adapt this checklist to your team's specific workflow and needs

@@ -144,7 +144,8 @@ Receives periodic updates from the Project Manager; partners with Product Manage
 - **Agile Coach** owns process health and retrospectives
 - **Stakeholder Sponsor** owns executive escalation and funding alignment
 - **Developers** own technical implementation decisions and code quality
-- **QA** owns test strategy and quality gates
+
+_Note: QA/Testing roles work closely with all personas to ensure quality standards. While not detailed in this guide, QA typically owns test strategy and quality gates._
 
 ---
 
